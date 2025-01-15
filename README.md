@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software engineer with a love for creating i
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Python**, **Machine Learning**, and **LLMS**
 - 🧑‍🏫 Mentoring at [ADPList.org](https://adplist.org/mentors/mhedayati)
 - 💬 Ask me about **PHP**, **Laravel**, **Symfony**, **DDD**, **TDD**
 
