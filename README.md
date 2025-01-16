@@ -13,8 +13,15 @@ Welcome to my GitHub profile! I'm a software engineer with a love for creating i
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
+![PHPUnit](https://img.shields.io/badge/-PHPUnit-333333?style=flat&logo=phpunit)
+![Pest](https://img.shields.io/badge/-Pest-333333?style=flat&logo=pest)
+![PHPStan](https://img.shields.io/badge/-PHPStan-333333?style=flat&logo=phpstan)
+![Psalm](https://img.shields.io/badge/-Psalm-333333?style=flat&logo=psalm)
+![PHPCS](https://img.shields.io/badge/-PHPCS-333333?style=flat&logo=phpcs)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+![DevOps](https://img.shields.io/badge/-DevOps-333333?style=flat&logo=devops)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![PHPStorm](https://img.shields.io/badge/-PHPStorm-333333?style=flat&logo=phpstorm)
 
@@ -23,6 +30,8 @@ Welcome to my GitHub profile! I'm a software engineer with a love for creating i
 
 - [LinkedIn](https://linkedin.com/in/mehrdad-hedayati)
 - [Twitter](https://twitter.com/mithredate)
+- [Website](https://mithredate.github.io)
+- [Telegram](https://t.me/mithredate)
 
 
 ## 🎉 Fun Fact
