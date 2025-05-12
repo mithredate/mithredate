@@ -47,7 +47,7 @@ Welcome to my GitHub profile! I'm a software engineer with a love for creating i
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/mehrdad-hedayati)
+- [LinkedIn](https://linkedin.com/in/mhedayati)
 - [ADPList](https://adplist.org/mentors/mehrdad-hedayati)
 - [Twitter](https://twitter.com/mithredate)
 - [Website](https://mithredate.github.io)
