@@ -35,19 +35,23 @@ Hey there
 
 ## 🚀 About Me
 
-- 🔭 Software Engineer with a love for meaningful impact
+- 🔭 Tech Lead, AI & Automation at Roadsurfer — building AI agent platforms and systems that move billions of events
 - 💙 Mentoring at [ADPList.org](https://adplist.org/mentors/mehrdad-hedayati)
-- 🌱 Learning **IaC**, **Observability & Monitoring**, and **DevSecOps**
-- 💬 Ask me about **Software best practices**, **Domain-Driven Design**, **Test-Driven Development**, and **Clean Code**
-- 🦾 Currently working on **Automation & AI**, **n8n**, **AI Governance**, and **AI Security**
+- 🌱 Learning **IaC**, **Observability & Monitoring**, **DevSecOps**, and **German** 🇩🇪
+- 💬 Ask me about **Software best practices**, **Domain-Driven Design**, **Test-Driven Development**, **Clean Code**, and **AI adoption in engineering teams**
+- 🦾 Currently working on **AI agents**, **n8n**, **AI governance**, **AI evals**, and **AI adoption across engineering**
+
+### 🤖 AI & Automation:
+
+![AI Agents](https://img.shields.io/badge/-AI%20Agents-333?style=flat) ![n8n](https://img.shields.io/badge/-n8n-333?style=flat&logo=n8n) ![MCP](https://img.shields.io/badge/-MCP-333?style=flat) ![RAG](https://img.shields.io/badge/-RAG-333?style=flat) ![AI Evals](https://img.shields.io/badge/-AI%20Evals-333?style=flat)
 
 ### 🎯 Core Expertise:
 
-![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel) ![Symfony](https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript) ![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go) ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php) ![Laravel](https://img.shields.io/badge/-Laravel-333?style=flat&logo=laravel) ![Symfony](https://img.shields.io/badge/-Symfony-333?style=flat&logo=symfony)
 
 ### 🚀 Polyglot Experience:
 
-![Go](https://img.shields.io/badge/-Go-333?style=flat&logo=go) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk) ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=openjdk) ![Kotlin](https://img.shields.io/badge/-Kotlin-333?style=flat&logo=kotlin) ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
 ### ☁️ Cloud & Infrastructure:
 
@@ -72,10 +76,6 @@ Hey there
 ### 🌐 Frontend & Web:
 
 ![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=nextdotjs) ![Vue.js](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vuedotjs) ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-333?style=flat&logo=nuxtdotjs) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333?style=flat&logo=tailwindcss) ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-
-### 🤖 AI & Development:
-
-![n8n](https://img.shields.io/badge/-n8n-333?style=flat&logo=n8n) ![MCP](https://img.shields.io/badge/-MCP-333?style=flat) ![RAG](https://img.shields.io/badge/-RAG-333?style=flat)
 
 ## 🔨 What I'm Building
 
