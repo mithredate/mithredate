@@ -35,7 +35,7 @@ Hey there
 
 ## 🚀 About Me
 
-- 🔭 Tech Lead, AI & Automation at Roadsurfer, building AI agent platforms and systems that move billions of events
+- 🔭 Team Lead, AI & Automation and Platform Engineering at Roadsurfer, building AI agent platforms and systems that move billions of events
 - 💙 Mentoring at [ADPList.org](https://adplist.org/mentors/mehrdad-hedayati)
 - 🌱 Learning **IaC**, **Observability & Monitoring**, **DevSecOps**, and **German** 🇩🇪
 - 💬 Ask me about **Software best practices**, **Domain-Driven Design**, **Test-Driven Development**, **Clean Code**, and **AI adoption in engineering teams**
